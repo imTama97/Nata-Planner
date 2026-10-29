@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "329461068598",
+    "project_id": "nata-planner",
+    "storage_bucket": "nata-planner.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329461068598:android:9ddf59294bb280f7c53997",
+        "android_client_info": {
+          "package_name": "id.natahidup.nataplanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329461068598-54bsb2ija72t0qr5n6sd5ffqh215uesh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT4rOb2gCpNP4pbUVZZYsI-oKlRk-9PXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329461068598-54bsb2ija72t0qr5n6sd5ffqh215uesh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
